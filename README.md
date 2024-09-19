@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4800ff&height=120&section=header"/>
 
 ## Olá, eu sou Otávio Câmara👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 🤔 Sempre explorando novas tecnologias e criando soluções inovadoras em software.
 - 🎓 Cursando Engenharia de Software na Estácio.
