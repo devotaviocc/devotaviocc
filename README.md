@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ba05135c-ced2-43cd-97ff-eff4b12daaff)<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4800ff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4800ff&height=120&section=header"/>
 
 ## Olá, eu sou Otávio Câmara👋
 
