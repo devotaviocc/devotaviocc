@@ -5,17 +5,16 @@
 <table>
   <tr>
     <td>
-
-🤔 Sempre explorando novas tecnologias e criando soluções inovadoras em software.  
-🎓 Cursando Engenharia de Software na Estácio.  
-🌱 Aprofundando meus conhecimentos em Pentest, RedTeam e hardware hacking.
-
+      <p>🤔 Sempre explorando novas tecnologias e criando soluções inovadoras em software.</p>
+      <p>🎓 Cursando Engenharia de Software na Estácio.</p>
+      <p>🌱 Aprofundando meus conhecimentos em Pentest, RedTeam e hardware hacking.</p>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300px">
     </td>
   </tr>
 </table>
+
 
 
 
