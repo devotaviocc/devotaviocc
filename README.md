@@ -5,11 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=567ebb&size=35&center=true&vCenter=true&width=1000&lines=Hello!!;It's+good+to+have+you+here!;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davieduard0x01&bg_color=0C0A0A&color=567ebb&line=00ff6e&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devotaviocc&bg_color=0C0A0A&color=567ebb&line=00ff6e&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davieduard0x01&show_icons=true&count_private=true&hide_border=true&title_color=567ebb&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davieduard0x01&layout=compact&hide_border=true&title_color=00bfbf&text_color=567ebb&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devotaviocc&show_icons=true&count_private=true&hide_border=true&title_color=567ebb&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devotaviocc&layout=compact&hide_border=true&title_color=00bfbf&text_color=567ebb&bg_color=0d1117" />
 </div>
 
 <p align="center">
@@ -80,7 +80,7 @@ public devotaviocc()
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{davieduard0x01}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devotaviocc}/count.svg" /></p>
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=567ebb&height=120&section=footer"/>
