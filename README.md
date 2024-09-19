@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=567ebb&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2700ff&height=120&section=header"/>
 
     
 
@@ -48,4 +48,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devotaviocc}/count.svg" /></p>
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=567ebb&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2700ff&height=120&section=footer"/>
