@@ -2,7 +2,7 @@
 
     
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d1ff&size=35&center=true&vCenter=true&width=1000&lines=Opa!;Bem-vindo+ao+meu+espaço;Projetos+de+Cybersegurança;Red+Team+e+Pentest;Obrigado+por+visitar!&pause=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2700ff&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+GitHub!;Explorando+Pentest+e+Segurança;Projetos+de+Hacking+e+Engenharia!)](https://git.io/typing-svg)
 
 
 ### Main skills:
