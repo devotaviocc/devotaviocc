@@ -12,6 +12,7 @@
 
 ![Python](https://img.shields.io/badge/-Python%20-333333?style=flat&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=2C2D72)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -26,7 +27,7 @@
 **Recon**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark&logoColor=1679A7)
 ![BurpSuite](https://img.shields.io/badge/-BurpSuite-333333?style=flat&logo=burp-suite&logoColor=FF6F00)
 ![Nikto](https://img.shields.io/badge/-Nikto-333333?style=flat&logo=nikto&logoColor=red)
 ![Nmap](https://img.shields.io/badge/-Nmap-333333?style=flat&logo=nmap&logoColor=blue)
@@ -36,9 +37,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
 **Ferramentas de desenvolvimento**
 
@@ -47,6 +46,15 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+
+**Sistemas Operacionais**
+
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=007ACC)
+![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian&logoColor=A81D33)
+![Kali](https://img.shields.io/badge/-Kali%20Linux-333333?style=flat&logo=kali-linux&logoColor=blue)
+![Parrot](https://img.shields.io/badge/-Parrot%20OS-333333?style=flat&logo=parrot&logoColor=00FF00)
+
 
 <br/>
 
