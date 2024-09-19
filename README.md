@@ -25,8 +25,6 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark&logoColor=1679A7)
 ![BurpSuite](https://img.shields.io/badge/-BurpSuite-333333?style=flat&logo=burp-suite&logoColor=FF6F00)
-![Nikto](https://img.shields.io/badge/-Nikto-333333?style=flat&logo=nikto&logoColor=red)
-![Nmap](https://img.shields.io/badge/-Nmap-333333?style=flat&logo=nmap&logoColor=blue)
 
 **DevOps**
 
