@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4800ff&height=120&section=header"/>
 
-## Olá 👋
+## Olá, eu sou Otávio Câmara👋
 
 - 🤔 Sempre explorando novas tecnologias e criando soluções inovadoras em software.
 - 🎓 Cursando Engenharia de Software na Estácio.
