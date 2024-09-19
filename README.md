@@ -50,6 +50,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/devotaviocc/](https://www.linkedin.com/in/devotaviocc/))](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:devotaviocc@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-devotaviocc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devotaviocc/)](https://www.linkedin.com/in/devotaviocc/)
+[![Gmail Badge](https://img.shields.io/badge/-devotaviocc@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devotaviocc@gmail.com)](mailto:devotaviocc@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/devotaviocc?label=follow&style=social)](https://github.com/devotaviocc/)
