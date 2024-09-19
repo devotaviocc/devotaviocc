@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-## Sobre mim
+## Olá 👋
 
 - 🤔 Sempre explorando novas tecnologias e criando soluções inovadoras em software.
 - 🎓 Cursando Engenharia de Software na Estácio.
@@ -18,7 +18,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilidades**
