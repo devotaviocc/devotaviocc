@@ -26,6 +26,8 @@
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![BurpSuite](https://img.shields.io/badge/-BurpSuite-333333?style=flat&logo=burp-suite&logoColor=FF6F00)
+
 
 **DevOps**
 
