@@ -2,16 +2,10 @@
 
 ## Olá, eu sou Otávio Câmara👋
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 20px; min-width: 300px;">
-    <p>🤔 Sempre explorando novas tecnologias e criando soluções inovadoras em software.</p>
-    <p>🎓 Cursando Engenharia de Software na Estácio.</p>
-    <p>🌱 Aprofundando meus conhecimentos em Pentest, RedTeam e hardware hacking.</p>
-  </div>
-  <div style="min-width: 300px; max-width: 300px;">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="100%" style="height: auto;">
-  </div>
-</div>
+| ![Ilustração de um computador](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png) | 
+|:---:| 
+| 🤔 Sempre explorando novas tecnologias e criando soluções inovadoras em software. <br> 🎓 Cursando Engenharia de Software na Estácio. <br> 🌱 Aprofundando meus conhecimentos em Pentest, RedTeam e hardware hacking. |
+
 
 
 ## Minhas Skills
