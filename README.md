@@ -2,12 +2,11 @@
 
 ## Olá, eu sou Otávio Câmara👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="min-width: 300px; max-width: 400px; width: 400px; float: right; margin: 0 0 20px 20px;">
 
 🤔 Sempre explorando novas tecnologias e criando soluções inovadoras em software.  
 🎓 Cursando Engenharia de Software na Estácio.  
 🌱 Aprofundando meus conhecimentos em Pentest, RedTeam e hardware hacking.
-
 
 
 ## Minhas Skills
