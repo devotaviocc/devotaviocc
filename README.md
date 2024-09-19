@@ -22,11 +22,14 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utilidades**
+
+**Recon**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![BurpSuite](https://img.shields.io/badge/-BurpSuite-333333?style=flat&logo=burp-suite&logoColor=FF6F00)
+![Nikto](https://img.shields.io/badge/-Nikto-333333?style=flat&logo=nikto&logoColor=red)
+![Nmap](https://img.shields.io/badge/-Nmap-333333?style=flat&logo=nmap&logoColor=blue)
 
 
 **DevOps**
