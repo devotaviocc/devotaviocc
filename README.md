@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=567ebb&size=35&center=true&vCenter=true&width=1000&lines=Hello!!;It's+good+to+have+you+here!;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gruppo&size=40&duration=5000&pause=9999&color=567ebb&center=true&vCenter=true&width=435&lines=devotaviocc" alt="Typing SVG" /></a><br> 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devotaviocc&bg_color=0C0A0A&color=567ebb&line=00ff6e&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
