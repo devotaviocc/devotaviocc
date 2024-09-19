@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4800ff&height=120&section=header"/>
 
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Olá 👋
 
 - 🤔 Sempre explorando novas tecnologias e criando soluções inovadoras em software.
@@ -22,7 +20,6 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-
 **Recon**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
@@ -31,7 +28,6 @@
 ![Nikto](https://img.shields.io/badge/-Nikto-333333?style=flat&logo=nikto&logoColor=red)
 ![Nmap](https://img.shields.io/badge/-Nmap-333333?style=flat&logo=nmap&logoColor=blue)
 
-
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -39,7 +35,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **Ferramentas de desenvolvimento**
-
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=21D789)
@@ -55,7 +50,6 @@
 ![Kali](https://img.shields.io/badge/-Kali%20Linux-333333?style=flat&logo=kali-linux&logoColor=blue)
 ![Parrot](https://img.shields.io/badge/-Parrot%20OS-333333?style=flat&logo=parrot&logoColor=00FF00)
 
-
 <br/>
 
 <a href="https://github.com/iuricode" title="Perfil do devotaviocc">
@@ -67,5 +61,5 @@
 [![Linkedin](https://img.shields.io/badge/-devotaviocc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devotaviocc/)](https://www.linkedin.com/in/devotaviocc/)
 [![Gmail Badge](https://img.shields.io/badge/-devotaviocc@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devotaviocc@gmail.com)](mailto:devotaviocc@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/devotaviocc?label=follow&style=social)](https://github.com/devotaviocc/)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4800ff&height=120&section=footer"/>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4800ff&height=120&section=footer"/>
