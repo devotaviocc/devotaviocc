@@ -2,7 +2,7 @@
 
     
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2700ff&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+GitHub!;Explorando+Pentest+e+Segurança;Projetos+de+Hacking+e+Engenharia!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2700ff&size=35&center=true&vCenter=true&width=1000&lines=$+ssh+root@pentest-server;root@pentest:~$+nmap+-sS+192.168.0.1;root@pentest:~$+hydra+-l+admin+-p+password+192.168.0.1+http;root@pentest:~$+nc+-lvnp+4444)](https://git.io/typing-svg)
 
 
 ### Main skills:
