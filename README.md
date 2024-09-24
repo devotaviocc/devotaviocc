@@ -67,11 +67,22 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-devotaviocc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devotaviocc/)](https://www.linkedin.com/in/devotaviocc/)
-[![Gmail Badge](https://img.shields.io/badge/-devotaviocc@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devotaviocc@gmail.com)](mailto:devotaviocc@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/devotaviocc?label=follow&style=social)](https://github.com/devotaviocc/)
-<a href="https://wigle.net">
-<br><img border="0" src="https://wigle.net/bi/bF0EgEsq6XjIIo2nFNwtow.png"></br>
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/devotaviocc/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-devotaviocc-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:devotaviocc@gmail.com">
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/-devotaviocc@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/devotaviocc/">
+    <img alt="GitHub" src="https://img.shields.io/github/followers/devotaviocc?label=follow&style=social" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://wigle.net">
+    <br><img border="0" src="https://wigle.net/bi/bF0EgEsq6XjIIo2nFNwtow.png"></br>
+  </a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4800ff&height=120&section=footer"/>
