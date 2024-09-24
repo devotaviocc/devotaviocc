@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4800ff&height=120&section=header"/>
 
-## Olá, eu sou Otávio👋
+## ***Olá, eu sou Otávio*** 👋
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
