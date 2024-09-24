@@ -17,7 +17,7 @@
 
 
 
-## **Minhas Skills**
+## ***Minhas Skills***
 
 **Aplicações e dados**
 
@@ -65,7 +65,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devotaviocc&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
+## ***Onde me Encontrar***
 
 <div align="center">
   <a href="https://www.linkedin.com/in/devotaviocc/">
