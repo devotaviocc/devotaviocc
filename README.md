@@ -61,7 +61,7 @@
 
 <br/>
 
-<div align="center">
+<div>
   <a href="https://github.com/iuricode" title="Perfil do devotaviocc">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devotaviocc&theme=dracula&show_icons=true" />
   </a>
