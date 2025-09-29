@@ -31,27 +31,6 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Recon**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark&logoColor=1679A7)
-![BurpSuite](https://img.shields.io/badge/-BurpSuite-333333?style=flat&logo=burp-suite&logoColor=FF6F00)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=21D789)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA%202024.2.0.1-333333?style=flat&logo=intellij-idea&logoColor=000000)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-
 **Sistemas Operacionais**
 
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=007ACC)
