@@ -16,7 +16,7 @@
 
 ### `$ whoami`
 
-Estudante de Engenharia de Software focado em seguranca ofensiva. Realizo pentest em **aplicacoes web**, **APIs**, **infraestrutura** (AD / Linux / Cloud) e **mobile**. Bug bounty hunter na [Intigriti](https://app.intigriti.com/researcher/profile/devotaviocc) e HackerOne.
+Pentester focado em **aplicacoes web**, **APIs**, **infraestrutura** (AD / Linux / Cloud) e **mobile**. Bug bounty hunter na [Intigriti](https://app.intigriti.com/researcher/profile/devotaviocc) e HackerOne.
 
 ---
 
