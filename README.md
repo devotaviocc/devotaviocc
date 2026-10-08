@@ -56,7 +56,7 @@ Graduando em Engenharia de Software pela Estacio. Bug bounty hunter na [Intigrit
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=00ADD8)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=white)
 
-**Infrastructure**
+### `$ uname -a`
 
 ![Kali](https://img.shields.io/badge/-Kali%20Linux-333333?style=flat&logo=kali-linux&logoColor=557C94)
 ![Active Directory](https://img.shields.io/badge/-Active%20Directory-333333?style=flat)
@@ -68,7 +68,7 @@ Graduando em Engenharia de Software pela Estacio. Bug bounty hunter na [Intigrit
 
 ---
 
-### Stats
+### `$ git log --oneline`
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devotaviocc&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117" />
