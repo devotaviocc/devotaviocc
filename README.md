@@ -68,10 +68,10 @@ Graduando em Engenharia de Software pela Estacio. Bug bounty hunter na [Intigrit
 
 ---
 
-### `$ git log --oneline`
+### `$ history`
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devotaviocc&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devotaviocc&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
 </div>
 
 ---
