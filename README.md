@@ -16,11 +16,13 @@
 
 ### `$ whoami`
 
-Penetration Tester e Red Team Operator. Desenvolvo ferramentas ofensivas e opero em programas de bug bounty ([Intigriti](https://app.intigriti.com/researcher/profile/devotaviocc), HackerOne). Realizo testes de intrusao em aplicacoes web, APIs, Active Directory, cloud e mobile.
+Offensive Security Engineer focado em encontrar vulnerabilidades que importam. Atuo em **pentest web**, **API security**, **infraestrutura** (Active Directory, Linux, cloud) e **mobile**. Desenvolvo minhas proprias ferramentas ofensivas em Python e opero em programas de bug bounty na [Intigriti](https://app.intigriti.com/researcher/profile/devotaviocc) e HackerOne.
 
 ```
-Escopo: Web Apps | APIs | Active Directory | Cloud (AWS/GCP/Azure) | Mobile
-Approach: Manual testing + custom tooling — zero scanners
+🌐 Web    →  Business logic, auth bypass, IDOR, race conditions, chain exploitation
+🔌 API    →  BOLA/BFLA, injection, broken auth, mass assignment
+🏢 Infra  →  Active Directory attacks, Kerberos, Linux privesc, cloud misconfig
+📱 Mobile →  APK/IPA reversing, API discovery, hardcoded secrets, cert pinning bypass
 ```
 
 ---
