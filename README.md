@@ -6,7 +6,7 @@
 
 **Penetration Tester | Red Team Operator | Bug Bounty Hunter**
 
-[![Linkedin](https://img.shields.io/badge/-devotaviocc-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devotaviocc/)
+[![Linkedin](https://img.shields.io/badge/-devotaviocc-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devotaviocc/)
 [![GitHub](https://img.shields.io/github/followers/devotaviocc?label=follow&style=social)](https://github.com/devotaviocc/)
 [![ProtonMail](https://img.shields.io/badge/-devotaviocc@proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:devotaviocc@proton.me)
 
