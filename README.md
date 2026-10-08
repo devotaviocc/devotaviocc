@@ -16,7 +16,15 @@
 
 ### `$ whoami`
 
-Pentester focado em **aplicacoes web**, **APIs**, **infraestrutura** (AD / Linux / Cloud) e **mobile**. Bug bounty hunter na [Intigriti](https://app.intigriti.com/researcher/profile/devotaviocc) e HackerOne.
+Especialista em seguranca ofensiva com foco em **Red Team** e **Pentest**. Atuo com testes de invasao, exploracao de vulnerabilidades e simulacao de ataques em ambientes Linux, Windows/Active Directory, infraestrutura e redes internas, cloud (AWS, Azure e GCP), aplicacoes web, APIs e mobile (Android e iOS).
+
+Ja conduzi pentests para empresas multinacionais, grandes operadoras de telefonia e instituicoes financeiras, entregando analises tecnicas e recomendacoes que fortalecem a postura de seguranca dessas organizacoes.
+
+Campeao do CTF da Solyd Offensive Security (1o lugar, premio de R$ 15.000). Uso competicoes de CTF como principal forma de treino tecnico e afiar o raciocinio ofensivo.
+
+Tambem estudo hardware hacking, analisando dispositivos eletronicos para entender falhas desde o nivel fisico ate o software.
+
+Graduando em Engenharia de Software pela Estacio. Bug bounty hunter na [Intigriti](https://app.intigriti.com/researcher/profile/devotaviocc) e HackerOne.
 
 ---
 
