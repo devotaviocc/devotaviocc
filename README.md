@@ -20,7 +20,7 @@ Especialista em seguranca ofensiva com foco em **Red Team** e **Pentest**. Atuo 
 
 Ja conduzi pentests para empresas multinacionais, grandes operadoras de telefonia e instituicoes financeiras, entregando analises tecnicas e recomendacoes que fortalecem a postura de seguranca dessas organizacoes.
 
-Campeao do CTF da Solyd Offensive Security (1o lugar, premio de R$ 15.000). Uso competicoes de CTF como principal forma de treino tecnico e afiar o raciocinio ofensivo.
+Campeao do CTF da Solyd Offensive Security (1o lugar, premio de R$ 15.000).
 
 Tambem estudo hardware hacking, analisando dispositivos eletronicos para entender falhas desde o nivel fisico ate o software.
 
