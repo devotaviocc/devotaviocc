@@ -16,14 +16,7 @@
 
 ### `$ whoami`
 
-Offensive Security Engineer focado em encontrar vulnerabilidades que importam. Atuo em **pentest web**, **API security**, **infraestrutura** (Active Directory, Linux, cloud) e **mobile**. Desenvolvo minhas proprias ferramentas ofensivas em Python e opero em programas de bug bounty na [Intigriti](https://app.intigriti.com/researcher/profile/devotaviocc) e HackerOne.
-
-```
-🌐 Web    →  Business logic, auth bypass, IDOR, race conditions, chain exploitation
-🔌 API    →  BOLA/BFLA, injection, broken auth, mass assignment
-🏢 Infra  →  Active Directory attacks, Kerberos, Linux privesc, cloud misconfig
-📱 Mobile →  APK/IPA reversing, API discovery, hardcoded secrets, cert pinning bypass
-```
+Offensive Security Engineer. Atuo com pentest em **aplicacoes web**, **APIs**, **infraestrutura** (Active Directory / Linux / Cloud) e **mobile**. Desenvolvo ferramentas ofensivas em Python e opero em programas de bug bounty na [Intigriti](https://app.intigriti.com/researcher/profile/devotaviocc) e HackerOne.
 
 ---
 
