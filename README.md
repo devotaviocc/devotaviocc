@@ -16,7 +16,7 @@
 
 ### `$ whoami`
 
-Penetration Tester e Red Team Operator com foco em **web application security**, **API exploitation**, **Active Directory attacks**, **cloud misconfigurations**, **infraestrutura** e **mobile security**. Desenvolvo ferramentas ofensivas, opero em programas de bug bounty ([Intigriti](https://app.intigriti.com/researcher/profile/devotaviocc), HackerOne) e realizo engagements de Red Team com foco em impacto real.
+Penetration Tester e Red Team Operator. Desenvolvo ferramentas ofensivas e opero em programas de bug bounty ([Intigriti](https://app.intigriti.com/researcher/profile/devotaviocc), HackerOne). Realizo testes de intrusao em aplicacoes web, APIs, Active Directory, cloud e mobile.
 
 ```
 Escopo: Web Apps | APIs | Active Directory | Cloud (AWS/GCP/Azure) | Mobile
@@ -49,18 +49,19 @@ Approach: Manual testing + custom tooling — zero scanners
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=2C2D72)
-![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell&logoColor=5391FE)
+![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=00ADD8)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=white)
 
 **Infrastructure**
 
 ![Kali](https://img.shields.io/badge/-Kali%20Linux-333333?style=flat&logo=kali-linux&logoColor=557C94)
-![Active Directory](https://img.shields.io/badge/-Active%20Directory-333333?style=flat&logo=microsoft&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure&logoColor=0078D4)
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-333333?style=flat)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian&logoColor=A81D33)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu&logoColor=E95420)
 
 ---
 
@@ -68,7 +69,6 @@ Approach: Manual testing + custom tooling — zero scanners
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devotaviocc&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devotaviocc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
 ---
