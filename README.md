@@ -16,7 +16,7 @@
 
 ### `$ whoami`
 
-Offensive Security Engineer especializado em pentest de **aplicacoes web**, **APIs**, **infraestrutura** (Active Directory / Linux / Cloud) e **mobile**. Desenvolvo ferramentas ofensivas e opero em programas de bug bounty na [Intigriti](https://app.intigriti.com/researcher/profile/devotaviocc) e HackerOne.
+Estudante de Engenharia de Software focado em seguranca ofensiva. Realizo pentest em **aplicacoes web**, **APIs**, **infraestrutura** (AD / Linux / Cloud) e **mobile**. Bug bounty hunter na [Intigriti](https://app.intigriti.com/researcher/profile/devotaviocc) e HackerOne.
 
 ---
 
