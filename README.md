@@ -1,69 +1,81 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4800ff&height=120&section=header"/>
 
-## ***Olá, eu sou Otávio*** 👋
+<div align="center">
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <p>🤔 Sempre explorando novas tecnologias e criando soluções inovadoras em software.</p>
-    <p>🎓 Cursando Engenharia de Software na Estácio.</p>
-    <p>🌱 Aprofundando meus conhecimentos em Pentest, RedTeam e hardware hacking.</p>
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300px">
-  </div>
+# Otavio C.
+
+**Penetration Tester | Red Team Operator | Bug Bounty Hunter**
+
+[![Linkedin](https://img.shields.io/badge/-devotaviocc-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devotaviocc/)
+[![GitHub](https://img.shields.io/github/followers/devotaviocc?label=follow&style=social)](https://github.com/devotaviocc/)
+[![ProtonMail](https://img.shields.io/badge/-devotaviocc@proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:devotaviocc@proton.me)
+
 </div>
 
+---
 
+### `$ whoami`
 
+Penetration Tester e Red Team Operator com foco em **web application security**, **API exploitation**, **Active Directory attacks**, **cloud misconfigurations**, **infraestrutura** e **mobile security**. Desenvolvo ferramentas ofensivas, opero em programas de bug bounty ([Intigriti](https://app.intigriti.com/researcher/profile/devotaviocc), HackerOne) e realizo engagements de Red Team com foco em impacto real.
 
+```
+Escopo: Web Apps | APIs | Active Directory | Cloud (AWS/GCP/Azure) | Mobile
+Approach: Manual testing + custom tooling — zero scanners
+```
 
-## ***Minhas Skills***
+---
 
-**Aplicações e dados**
+### `$ cat /etc/certs`
 
-![Python](https://img.shields.io/badge/-Python%20-333333?style=flat&logo=Python)
+| Cert | Focus | Verify |
+|:-----|:------|:------:|
+| **eWPTX** | Advanced Web Pentesting | [🔗](https://certs.ine.com/bcf9d2b6-1283-4490-a330-cc8bf8167837) |
+| **eJPT** | Penetration Testing Foundations | [🔗](https://certs.ine.com/06e75719-ac89-4904-9382-34eccdf8cc09#acc.TYdCR0nx) |
+| **DCPT** | Penetration Testing | [🔗](https://academy.desecsecurity.com/certificacao/TZTI-XFNFA-EHQZ) |
+| **SYCP** | Penetration Testing | [🔗](https://solyd.com.br/ead/pentest/certificate/d7s2Ik5Yxi/) |
+| **CRTA** | Red Team Operations | [🔗](https://labs.cyberwarfare.live/credential/achievement/688be9fb91e1e7894fd6213b) |
+| **AD-RTS** | Active Directory Attacks | [🔗](https://labs.cyberwarfare.live/credential/achievement/69795876fbb79ac758565da6) |
+| **Web-RTA** | Web App Red Teaming | [🔗](https://labs.cyberwarfare.live/credential/achievement/6987b4425f7c23c92b91aa80) |
+| **API-RTA** | API Red Teaming | [🔗](https://labs.cyberwarfare.live/credential/achievement/69a76cd13dc04122a6773af5) |
+| **MCRTA** | Multi-Cloud Red Teaming | [🔗](https://labs.cyberwarfare.live/credential/achievement/69c08c503f6937a0d91e6019) |
+
+---
+
+### `$ arsenal --list`
+
+**Exploit Development & Scripting**
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=2C2D72)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![NODEJS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell&logoColor=5391FE)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=00ADD8)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=white)
 
-**Sistemas Operacionais**
+**Infrastructure**
 
-![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=007ACC)
+![Kali](https://img.shields.io/badge/-Kali%20Linux-333333?style=flat&logo=kali-linux&logoColor=557C94)
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-333333?style=flat&logo=microsoft&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure&logoColor=0078D4)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian&logoColor=A81D33)
-![Kali](https://img.shields.io/badge/-Kali%20Linux-333333?style=flat&logo=kali-linux&logoColor=blue)
-![Parrot](https://img.shields.io/badge/-Parrot%20OS-333333?style=flat&logo=parrot&logoColor=00FF00)
 
-<br/>
+---
 
-<div>
-  <a href="https://github.com/iuricode" title="Perfil do devotaviocc">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devotaviocc&theme=dracula&show_icons=true" />
-  </a>
-</div>
-
-
-## ***Onde me Encontrar***
+### Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/devotaviocc/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-devotaviocc-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:devotaviocc@gmail.com">
-    <img alt="Gmail Badge" src="https://img.shields.io/badge/-devotaviocc@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/devotaviocc/">
-    <img alt="GitHub" src="https://img.shields.io/github/followers/devotaviocc?label=follow&style=social" />
-  </a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devotaviocc&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devotaviocc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
+
+---
 
 <div align="center">
   <a href="https://wigle.net">
-    <br><img border="0" src="https://wigle.net/bi/bF0EgEsq6XjIIo2nFNwtow.png"></br>
+    <img border="0" src="https://wigle.net/bi/bF0EgEsq6XjIIo2nFNwtow.png">
   </a>
 </div>
 
